@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>41_Swimming_Swimmer_41_553.jpg</filename>
+		<size>
+			<width>1024</width>
+			<height>1397</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>nomask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>150</xmin>
+				<ymin>255</ymin>
+				<xmax>707</xmax>
+				<ymax>973</ymax>
+			</bndbox>
+		</object>
+	</annotation>

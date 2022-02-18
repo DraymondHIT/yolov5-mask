@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>31_Waiter_Waitress_Waiter_Waitress_31_307.jpg</filename>
+		<size>
+			<width>1024</width>
+			<height>905</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>nomask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>437</xmin>
+				<ymin>7</ymin>
+				<xmax>615</xmax>
+				<ymax>179</ymax>
+			</bndbox>
+		</object>
+	</annotation>

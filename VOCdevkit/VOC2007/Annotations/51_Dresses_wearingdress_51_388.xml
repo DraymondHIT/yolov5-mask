@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>51_Dresses_wearingdress_51_388.jpg</filename>
+		<size>
+			<width>1024</width>
+			<height>681</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>nomask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>599</xmin>
+				<ymin>309</ymin>
+				<xmax>787</xmax>
+				<ymax>547</ymax>
+			</bndbox>
+		</object>
+	</annotation>

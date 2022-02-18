@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>39_Ice_Skating_Ice_Skating_39_279.jpg</filename>
+		<size>
+			<width>1024</width>
+			<height>1540</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>nomask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>475</xmin>
+				<ymin>211</ymin>
+				<xmax>571</xmax>
+				<ymax>343</ymax>
+			</bndbox>
+		</object>
+	</annotation>

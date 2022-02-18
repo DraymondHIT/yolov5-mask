@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>41_Swimming_Swimmer_41_174.jpg</filename>
+		<size>
+			<width>1024</width>
+			<height>660</height>
+			<depth>3</depth>
+		</size>
+	</annotation>

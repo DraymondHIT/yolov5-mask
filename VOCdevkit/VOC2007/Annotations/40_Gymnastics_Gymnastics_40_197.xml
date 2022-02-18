@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>40_Gymnastics_Gymnastics_40_197.jpg</filename>
+		<size>
+			<width>1024</width>
+			<height>1598</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>nomask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>490</xmin>
+				<ymin>472</ymin>
+				<xmax>615</xmax>
+				<ymax>650</ymax>
+			</bndbox>
+		</object>
+	</annotation>
